@@ -7,7 +7,7 @@ This mini-project is part of our module SC1015 (Introduction to Data Science & A
 
 Otherwise, you may also look at our individual notebooks split into different junctures of the project:
 
-1. [Data Cleaning]
+1. [Data Cleaning](Data Cleaning.ipynb)
 2. [Problem Formulation 1, Exploratory Data Analysis (EDA)]
 3. [Regression Models]
 4. [Problem Formulation 2, Classification Models]
