@@ -1,6 +1,7 @@
 # SC1015 - Gaming the Data
 
 Done by: Gan Kai Feng, Ng Zi Xuan, Nicholas Loh Hui Kean
+Lab Group: B140
 
 ## About
 This mini-project is part of our module SC1015 (Introduction to Data Science & Artificial Intelligence) which focuses on popularity of video games in 2016. For easy navigation, you may choose to use the below hyperlink to access the full and complete notebook:
