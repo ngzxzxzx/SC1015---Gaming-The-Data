@@ -1,4 +1,4 @@
-# SC1015 
+# SC1015 - Gaming the Data
 
 Done by: Gan Kai Feng, Ng Zi Xuan, Nicholas Loh Hui Kean
 
