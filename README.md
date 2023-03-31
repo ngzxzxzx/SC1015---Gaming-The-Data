@@ -16,7 +16,9 @@ Otherwise, you may also look at our individual notebooks split into different ju
 
 
 ## Problem Formulation
-
+1. Are we able to predict Global Sales (Response) using other variables (Predictors) from our data? 
+2. What is the most important feature in predicting Global Sales? (Feature Importance)
+3. Are we able to identify whether a video game is popular or not? (Classification) 
 
 
 ## Models Used
