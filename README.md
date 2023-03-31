@@ -13,3 +13,18 @@ Otherwise, you may also look at our individual notebooks split into different ju
 2. [Problem Formulation 1, Exploratory Data Analysis (EDA)]
 3. [Regression Models]
 4. [Problem Formulation 2, Classification Models]
+
+
+## Problem Formulation
+
+
+
+## Models Used
+
+
+
+## Conclusion and Key Insights
+
+
+
+## What Did We Learn From This Project?
