@@ -32,7 +32,7 @@ Regression Models:
 - Ridge Regression
 - XG Boost
 <br></br>
-Classification Models
+Classification Models:
 - K Nearest Neighbours (KNN)
 - Decision Tree
 - Random Forest Classification
