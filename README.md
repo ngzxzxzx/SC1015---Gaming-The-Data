@@ -59,8 +59,11 @@ Classification Models:
 - Regression models have their own strengths. For example, Ridge Regression is good for overcoming overfitting, which may be useful for some datasets.
 
 
-## Member Contributions
-Zi Xuan: Data Cleaning, EDA
-Nicholas: Regression Models
-Kai Feng: Classification Models
+
+| Member | Contributions |
+|:---:|:---:|
+| Zi Xuan | Data Cleaning, EDA |
+| Nicholas | Regression Models |
+| Kai Feng | Classification Models |
+
 
