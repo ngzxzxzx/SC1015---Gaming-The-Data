@@ -7,6 +7,8 @@ Lab Group: B140
 ## About
 This mini-project is part of our module SC1015 (Introduction to Data Science & Artificial Intelligence) which focuses on popularity of video games in 2016. For easy navigation, you may choose to use the below hyperlink to access the full and complete notebook:
 
+![Metacritic Platform (Image from: https://venturebeat.com/games/metacritic-is-stupid-but-mainly-because-review-score-are-just-as-stupid/)](https://venturebeat.com/wp-content/uploads/2013/03/metacritic.png?strip=all)
+
 <br> </br>
 Otherwise, you may also look at our individual notebooks split into different junctures of the project:
 
