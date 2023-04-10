@@ -5,7 +5,7 @@ Done by: Gan Kai Feng, Ng Zi Xuan, Nicholas Loh Hui Kean
 Lab Group: B140
 
 ## About
-This mini-project is part of our module SC1015 (Introduction to Data Science & Artificial Intelligence) which focuses on popularity of video games in 2016. For easy navigation, you may choose to use the below hyperlink to access the full and complete notebook:
+This mini-project is part of our module SC1015 (Introduction to Data Science & Artificial Intelligence) which focuses on popularity of video games in 2016. 
 
 ![Metacritic Platform](https://venturebeat.com/wp-content/uploads/2013/03/metacritic.png?strip=all) <br>
 (Image from: https://venturebeat.com/games/metacritic-is-stupid-but-mainly-because-review-score-are-just-as-stupid/)
@@ -15,6 +15,9 @@ This mini-project is part of our module SC1015 (Introduction to Data Science & A
 Given the expansive and growing video game industry, we are aware how data analysis on video games sales may be helpful to budding companies or start-ups which want to break through into the market. While doing so, individuals who are keen to enter the market may be inspired and produce some sort of disruptive innovation. Therefore, our project attempts to identify relatively popular (and not so popular) video games, and the contributing factors to their successes.
 
 <br> </br>
+For easy navigation, you may choose to use the following hyperlink to access the full and complete notebook:
+[Full Notebook](www.google.com)
+
 Otherwise, you may also look at our individual notebooks split into different junctures of the project:
 
 1. [Data Cleaning](https://github.com/ngzxzxzx/SC1015/blob/main/Data%20Cleaning.ipynb)
