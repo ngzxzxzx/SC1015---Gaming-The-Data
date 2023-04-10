@@ -31,6 +31,7 @@ Regression Models:
 - Random Forest Regression
 - Ridge Regression
 - XG Boost
+
 <br></br>
 Classification Models:
 - K Nearest Neighbours (KNN)
@@ -45,3 +46,6 @@ Classification Models:
 
 
 ## What Did We Learn From This Project?
+- Long-tailed distributions affect the performance of our models. In fact the accuracy and usefulness of our models drop drastically.
+- Removing outliers for a long-tailed distribution can be iffy. Nevertheless, we removed outliers until we are able to visibly see the distribution on a graph, even though it may be slightly skewed.
+- Regression models have their own strengths. For example, Ridge Regression is good for overcoming overfitting, which may be useful for some datasets.
