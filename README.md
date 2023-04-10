@@ -26,10 +26,22 @@ Otherwise, you may also look at our individual notebooks split into different ju
 
 ## Models Used
 
+Regression Models:
+- Linear Regression
+- Random Forest Regression
+- Ridge Regression
+- XG Boost
+<br></br>
+Classification Models
+- K Nearest Neighbours (KNN)
+- Decision Tree
+- Random Forest Classification
 
 
 ## Conclusion and Key Insights
-
+- Regression models were not very successful in predicting Global Sales, given the low R^2 values.
+- However, we can identify (the most) important features while trying to predict Global Sales. In our results, we found that the number of Metacritic subscribers who gave a score was the most important feature.
+- Classification models are relatively accurate in determining whether a video game will be a hit or not.
 
 
 ## What Did We Learn From This Project?
