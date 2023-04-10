@@ -12,8 +12,8 @@ Otherwise, you may also look at our individual notebooks split into different ju
 
 1. [Data Cleaning](https://github.com/ngzxzxzx/SC1015/blob/main/Data%20Cleaning.ipynb)
 2. [Problem Formulation 1, Exploratory Data Analysis (EDA)](https://github.com/ngzxzxzx/SC1015/blob/main/Problem%20Formulation%20and%20Exploratory%20Data%20Analysis.ipynb)
-3. [Regression Models]
-4. [Problem Formulation 2, Classification Models]
+3. [Regression Models](https://github.com/ngzxzxzx/SC1015/blob/main/Regression%20Models.ipynb)
+4. [Problem Formulation 2, Classification Models](https://github.com/ngzxzxzx/SC1015/blob/main/Classification_Methods.ipynb)
 
 
 ## Problem Formulation
