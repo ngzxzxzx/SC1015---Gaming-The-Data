@@ -25,7 +25,7 @@ Otherwise, you may also look at our individual notebooks split into different ju
 
 
 ## Models Used
-
+<br> </br>
 Regression Models:
 - Linear Regression
 - Random Forest Regression
