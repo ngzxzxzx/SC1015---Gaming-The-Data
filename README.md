@@ -7,8 +7,12 @@ Lab Group: B140
 ## About
 This mini-project is part of our module SC1015 (Introduction to Data Science & Artificial Intelligence) which focuses on popularity of video games in 2016. For easy navigation, you may choose to use the below hyperlink to access the full and complete notebook:
 
-![Metacritic Platform](https://venturebeat.com/wp-content/uploads/2013/03/metacritic.png?strip=all)
+![Metacritic Platform](https://venturebeat.com/wp-content/uploads/2013/03/metacritic.png?strip=all) <br>
 (Image from: https://venturebeat.com/games/metacritic-is-stupid-but-mainly-because-review-score-are-just-as-stupid/)
+
+>"2016 was another enormous year for the interactive entertainment industry...The industry's innovative genius and ability to engage and delight billions of gamers worldwide delivered another record performance. Congratulations to the developers, storytellers, creators, and investors who defined the leaderboard for entertainment." - Michael D. Gallagher, president and CEO of the ESA (Entertainment Software Association)
+
+Given the expansive and growing video game industry, we are aware how data analysis on video games sales may be helpful to budding companies or start-ups which want to break through into the market. While doing so, individuals who are keen to enter the market may be inspired and produce some sort of disruptive innovation. Therefore, our project attempts to identify relatively popular (and not so popular) video games, and the contributing factors to their successes.
 
 <br> </br>
 Otherwise, you may also look at our individual notebooks split into different junctures of the project:
