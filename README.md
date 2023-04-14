@@ -56,7 +56,11 @@ Classification Models:
 ## What Did We Learn From This Project?
 - Long-tailed distributions affect the performance of our models. In fact the accuracy and usefulness of our models drop drastically.
 - Removing outliers for a long-tailed distribution can be iffy. Nevertheless, we removed outliers until we are able to visibly see the distribution on a graph, even though it may be slightly skewed.
-- Regression models have their own strengths. For example, Ridge Regression is good for overcoming overfitting, which may be useful for some datasets.
+-Why the overfitting of data occurs, and how it affects the R^2 values of test and train data
+-Different regression and classification models outside the scope of this module: Random Forest Regression and Classification, Ridge Regression and XGBoost
+- Regression models have their own strengths. For example, Ridge Regression is good for overcoming overfitting, which may be useful for some datasets, and Random Forest Regression provides us the function to identify feature importances
+-One-hot encoding is extremely useful in representing categorical data in numerical form
+-We have to ensure that we avoid the dummy trap when using one-hot representations in our code
 
 
 
