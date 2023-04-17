@@ -15,10 +15,7 @@ This mini-project is part of our module SC1015 (Introduction to Data Science & A
 Given the expansive and growing video game industry, we are aware how data analysis on video games sales may be helpful to budding companies or start-ups which want to break through into the market. While doing so, individuals who are keen to enter the market may be inspired and produce some sort of disruptive innovation. Therefore, our project attempts to identify relatively popular (and not so popular) video games, and the contributing factors to their successes.
 
 <br> </br>
-For easy navigation, you may choose to use the following hyperlink to access the full and complete notebook:
-[Full Notebook](www.google.com)
-
-Otherwise, you may also look at our individual notebooks split into different junctures of the project:
+For easy navigation, you may also look at the individual notebooks split into different junctures of the project:
 
 1. [Data Cleaning](https://github.com/ngzxzxzx/SC1015/blob/main/Data%20Cleaning.ipynb)
 2. [Problem Formulation 1, Exploratory Data Analysis (EDA)](https://github.com/ngzxzxzx/SC1015/blob/main/Problem%20Formulation%20and%20Exploratory%20Data%20Analysis.ipynb)
