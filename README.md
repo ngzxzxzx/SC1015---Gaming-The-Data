@@ -51,6 +51,7 @@ Classification Models:
 
 
 ## What Did We Learn From This Project?
+- Aggregation of variables for data points with the same name. 
 - Long-tailed distributions affect the performance of our models. In fact the accuracy and usefulness of our models drop drastically.
 - Removing outliers for a long-tailed distribution can be iffy. Nevertheless, we removed outliers until we are able to visibly see the distribution on a graph, even though it may be slightly skewed.
 - Why the overfitting of data occurs, and how it affects the R^2 values of test and train data
