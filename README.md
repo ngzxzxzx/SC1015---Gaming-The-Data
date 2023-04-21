@@ -7,8 +7,8 @@ Lab Group: B140
 ## About
 This mini-project is part of our module SC1015 (Introduction to Data Science & Artificial Intelligence) which focuses on popularity of video games in 2016. 
 
-![Metacritic Platform](https://venturebeat.com/wp-content/uploads/2013/03/metacritic.png?strip=all) <br>
-(Image from: https://venturebeat.com/games/metacritic-is-stupid-but-mainly-because-review-score-are-just-as-stupid/)
+![Metacritic Platform](https://duet-cdn.vox-cdn.com/thumbor/0x0:1316x894/828x552/filters:focal(658x447:659x448):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/20095893/Screen_Shot_2020_07_17_at_2.36.15_PM.png) <br>
+(Image from: https://www.theverge.com/2020/7/17/21328597/metacritic-user-reviews-delayed-review-bombing)
 
 >"2016 was another enormous year for the interactive entertainment industry...The industry's innovative genius and ability to engage and delight billions of gamers worldwide delivered another record performance. Congratulations to the developers, storytellers, creators, and investors who defined the leaderboard for entertainment." - Michael D. Gallagher, president and CEO of the ESA (Entertainment Software Association)
 
