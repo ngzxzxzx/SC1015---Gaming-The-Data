@@ -14,7 +14,7 @@ This mini-project is part of our module SC1015 (Introduction to Data Science & A
 
 Given the expansive and growing video game industry, we are aware how data analysis on video games sales may be helpful to budding companies or start-ups which want to break through into the market. While doing so, individuals who are keen to enter the market may be inspired and produce some sort of disruptive innovation. Therefore, our project attempts to identify relatively popular (and not so popular) video games, and the contributing factors to their successes.
 
-The dataset we used can be accessed from the below link:
+The dataset we used can be accessed from the links below:
 - [Dataset](https://github.com/ngzxzxzx/SC1015---Gaming-The-Data/blob/main/VideoGamesDataset.zip)
 - The original dataset is titled "Video_Games_Sales_as_at_22_Dec_2016.csv" and the cleaned dataset we used subsequently for our notebooks is titled "vidgames_cleaned.csv".
 - Alternatively, you may access the original dataset on [Kaggle](https://www.kaggle.com/datasets/dileepsahu/video-games-sale-data-set-dec-2016)
