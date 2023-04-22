@@ -53,7 +53,12 @@ Classification Models:
 - Regression models were not very successful in predicting Global Sales, given the low R^2 values.
 - However, we can identify (the most) important features while trying to predict Global Sales. In our results, we found that the number of Metacritic subscribers who gave a score was the most important feature.
 - Classification models are relatively accurate in determining whether a video game will be a hit or not.
-- Video game companies can try to emulate established companies like Nintendo. Our results have shown that games under Nintendo are likely to become a hit.
+- Through our findings, we suggest for video game companies to:
+1. Emulate established companies like Nintendo. Our results have shown that games under Nintendo are likely to become a hit.
+2. Encourage their playerbase to leave more reviews on metacritic, as the number of reviews on metacritic is shown to be the strongest predictor for 
+   Global Sales
+3. Ensure that the quality of games produced is high enough for critics to leave a positive review on metacritic, as a high critic score is indicative
+   of high Global Sales
 
 
 ## What Did We Learn From This Project?
