@@ -16,9 +16,8 @@ Given the expansive and growing video game industry, we are aware how data analy
 
 The dataset we used can be accessed from the below link:
 - [Dataset](https://github.com/ngzxzxzx/SC1015---Gaming-The-Data/blob/main/VideoGamesDataset.zip)
-The original dataset is titled "Video_Games_Sales_as_at_22_Dec_2016.csv" and the cleaned dataset we used subsequently for our notebooks is titled "vidgames_cleaned.csv".
-
-Alternatively, you may access the original dataset on [Kaggle](https://www.kaggle.com/datasets/dileepsahu/video-games-sale-data-set-dec-2016)
+- The original dataset is titled "Video_Games_Sales_as_at_22_Dec_2016.csv" and the cleaned dataset we used subsequently for our notebooks is titled "vidgames_cleaned.csv".
+- Alternatively, you may access the original dataset on [Kaggle](https://www.kaggle.com/datasets/dileepsahu/video-games-sale-data-set-dec-2016)
 
 <br> </br>
 For easy navigation, you may also look at the individual notebooks split into different junctures of the project:
