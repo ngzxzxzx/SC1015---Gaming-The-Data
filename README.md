@@ -35,7 +35,6 @@ For easy navigation, you may also look at the individual notebooks split into di
 
 
 ## Models Used
-<br> </br>
 Regression Models:
 - Linear Regression
 - Random Forest Regression
