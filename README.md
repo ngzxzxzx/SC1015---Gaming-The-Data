@@ -41,8 +41,7 @@ Regression Models:
 - Random Forest Regression
 - Ridge Regression
 - XG Boost
-
-<br></br>
+--------
 Classification Models:
 - K Nearest Neighbours (KNN)
 - Decision Tree
@@ -50,26 +49,27 @@ Classification Models:
 
 
 ## Conclusion and Key Insights
-- Regression models were not very successful in predicting Global Sales, given the low R^2 values.
+- Regression models were not very successful in predicting Global Sales, given the low $R^{2}$ values.
 - However, we can identify (the most) important features while trying to predict Global Sales. In our results, we found that the number of Metacritic subscribers who gave a score was the most important feature.
 - Classification models are relatively accurate in determining whether a video game will be a hit or not.
+
 - Through our findings, we suggest for video game companies to:
 1. Emulate established companies like Nintendo. Our results have shown that games under Nintendo are likely to become a hit.
 2. Encourage their playerbase to leave more reviews on metacritic, as the number of reviews on metacritic is shown to be the strongest predictor for 
-   Global Sales
+   Global Sales.
 3. Ensure that the quality of games produced is high enough for critics to leave a positive review on metacritic, as a high critic score is indicative
-   of high Global Sales
+   of high Global Sales.
 
 
 ## What Did We Learn From This Project?
 - Aggregation of variables for data points with the same name. 
 - Long-tailed distributions affect the performance of our models. In fact the accuracy and usefulness of our models drop drastically.
 - Removing outliers for a long-tailed distribution can be iffy. Nevertheless, we removed outliers until we are able to visibly see the distribution on a graph, even though it may be slightly skewed.
-- Why the overfitting of data occurs, and how it affects the R^2 values of test and train data
+- Why the overfitting of data occurs, and how it affects the $R^{2}$ values of test and train data.
 - Different regression and classification models outside the scope of this module: Random Forest Regression and Classification, Ridge Regression and XGBoost
-- Regression models have their own strengths. For example, Ridge Regression is good for overcoming overfitting, which may be useful for some datasets, and Random Forest Regression provides us the function to identify feature importances
-- One-hot encoding is extremely useful in representing categorical data in numerical form
-- We have to ensure that we avoid the dummy trap when using one-hot representations in our code
+- Regression models have their own strengths. For example, Ridge Regression is good for overcoming overfitting, which may be useful for some datasets, and Random Forest Regression provides us the function to identify feature importances.
+- One-hot encoding is extremely useful in representing categorical data in numerical form.
+- We have to ensure that we avoid the dummy trap when using one-hot representations in our code.
 
 
 
